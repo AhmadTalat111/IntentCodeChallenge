@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IntentCodeChallenge</string>
+    <string name="the_text">The Text</string>
+    <string name="text_one"><b>Text One </b>   Lorem ipsum dolor sit amet,\n
+        \n consectetur adipiscing elit.
+        \n Duis malesuada congue metus ac ultricies. \n
+        id euismod pellentesque. Aenean sapien erat, \n
+        condimentum fermentum sollicitudin faucibus, \n
+        dapibus sed odio.</string>
+    <string name="text_two"><b>Text Two </b>   Lorem ipsum dolor sit amet,\n
+        \n consectetur adipiscing elit.
+        \n Duis malesuada congue metus ac ultricies. \n
+        id euismod pellentesque. Aenean sapien erat, \n
+        condimentum fermentum sollicitudin faucibus, \n
+        dapibus sed odio.</string>
+    <string name="text_three"><b>Text Three </b>   Lorem ipsum dolor sit amet,\n
+        \n consectetur adipiscing elit.
+        \n Duis malesuada congue metus ac ultricies. \n
+        id euismod pellentesque. Aenean sapien erat, \n
+        condimentum fermentum sollicitudin faucibus, \n
+        dapibus sed odio.</string>
+
+</resources>
